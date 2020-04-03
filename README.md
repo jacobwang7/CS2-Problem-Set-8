@@ -1,12 +1,14 @@
-# Problem Set 8: Hashes and Trees
+# Problem Set 8: Maps with Hashes and Trees
 
 ### Due Wednesday, April 15th @ 11.59pm anywhere in the world
 
 ---
 
-There are two parts to this problem set. Only one will be graded for your problem set 8 grade, so you can choose to do whichever part suits you. 
+There are two parts to this problem set. Only one will be graded for your problem set 8 grade, so you can choose to do whichever part suits you.
 
 If you would like to complete the other part, you can do so and have that grade replace an earlier grade that you were not happy with. This is entirely optional, of course!
+
+Part 2 will probably be easier for most people, so you might want to start with that.
 
 In this problem set, you will be implementing your own map map ADT interface, which you will find in the `src` directory:
 
