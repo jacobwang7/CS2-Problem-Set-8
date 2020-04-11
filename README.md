@@ -1,6 +1,6 @@
 # Problem Set 8: Maps with Hashes and Trees
 
-### Due Wednesday, April 15th @ 11.59pm anywhere in the world
+### Due Friday, April 17th @ 11.59pm anywhere in the world
 
 ---
 
